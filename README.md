@@ -1,7 +1,12 @@
-# EV Research
+# EV Incentive Research
 
 Resources:
 
 * Big Box Retail Grocery Store and Electric Vehicle Station Load Profiles
     * https://data.nrel.gov/submissions/176
-Changes
+
+* Levelized Cost of Charging Electric Vehicles
+    * https://data.nrel.gov/submissions/150
+
+* Impact of uncoordinated plug-in electric vehicle charging on residential power demand - supplementary data
+    * https://data.nrel.gov/submissions/69
