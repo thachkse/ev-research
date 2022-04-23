@@ -1,0 +1,7 @@
+/coverage
+/docs/read_the_docs/_build
+/lib
+/resources/buildstock.csv
+/weather
+/workflow/*
+!/workflow/run_analysis.rb
